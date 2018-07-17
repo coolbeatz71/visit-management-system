@@ -1,0 +1,40 @@
+/* Your custom styles */
+.nav-item > .nav-link:hover {
+  font-weight: bold !important;
+  font-size: 16.5px !important;
+}
+
+.btn-rounded {
+  border-radius: 40px !important;
+}
+
+.top-nav-collapse {
+  background-color: #ff8c1a !important;
+}
+
+#features .carousel-item img {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+#features .accordion .card-header {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.rotate-icon {
+  float: right;
+}
+
+.pricing-table .list-group > .list-group-item,
+.pricing-table .card-footer {
+  border: none;
+  padding: 0.85rem 1.25rem;
+}
+
+.tab-pane{
+  padding: 60px !important;
+}
+
+.input-square{
+  border-radius: 0px !important;
+}
